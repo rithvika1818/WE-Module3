@@ -1,4 +1,4 @@
-# Untitled
+# YahtzeeCodeAndTestCases_Transcript
 
 **Conversation with Gemini
 I am trying to write a python code to build a bot that helps me play the game yahtzee. What are the functions that I need to include?volume_up**
@@ -238,42 +238,8 @@ Here are 30 test cases for your Yahtzee game code, covering various functionalit
 **Additional Considerations:**
 • You can create test cases for the score history tracking function as well, depending on your chosen method (in-memory list vs. file).
 • Expand the test cases for different dice roll scenarios to cover more edge cases.
-• Consider using a testing framework like `unittest` in Python for a more structured testing approach.**sharemore_vert
-Execute Test Casesedit**Show drafts
-**
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-1. 
-
-1. 
-
-1. 
-
-• 
-1. 
-
-1. 
-2. 
-3. 
-4. 
-    ◦ 
-    ◦ 
-5. 
-6. 
-
-1. 
-2. 
-3. 
-4. 
-
-• 
-• volume_up**
+• Consider using a testing framework like `unittest` in Python for a more structured testing approach.
+   
 To execute the test cases you mentioned, we can leverage the `unittest` framework in Python. Here's a sample implementation assuming you have separate functions for each functionality:**Python**
 
 `import unittest
